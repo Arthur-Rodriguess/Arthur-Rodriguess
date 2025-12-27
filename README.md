@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Arthur e eu sou um desenvolvedor web</p>
+<p align="left">Meu nome é Arthur e eu sou um estudante de desenvolvimento web</p>
 
 ###
 
