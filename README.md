@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Estudando desde 2024<br>📚 Atualmente aprofundando em PHP</p>
+<p align="left">✨ Estudando desde 2025<br>📚 Atualmente aprofundando em PHP</p>
 
 ###
 
